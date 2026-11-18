@@ -1,0 +1,7 @@
+# Sub-repositories (managed independently or via submodules)
+wbc-library/
+war-entities/
+plotline-architect/
+scene-blueprints/
+prose-drafts/
+ci-cd-continuity-guard/
